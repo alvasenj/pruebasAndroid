@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">pruebasAndroid</string>
+    <string name="texto">Hello world!</string>
+    <string name="textoMod">Bye world!</string>
+    <string name="boton1">boton 1</string>
+    <string name="boton2">boton 2</string>
 </resources>
